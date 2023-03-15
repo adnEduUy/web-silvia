@@ -1,6 +1,6 @@
 import React from "react"
-import questions from "@/content/preguntas-frecuentes.json"
-import FAQItem from "@/components/faq/FAQItem"
+import questions from "../../content/preguntas-frecuentes.json"
+import FAQItem from "../../components/faq/FAQItem"
 const page = () => {
   return (
     <main>
