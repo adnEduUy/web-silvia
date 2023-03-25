@@ -1,4 +1,3 @@
-import Header from '../components/layout/Header'
 import '../styles/globals.css'
 
 export const metadata = {
@@ -29,7 +28,6 @@ export default function RootLayout({ children }) {
       </head>
       <body className='m-0 min-h-screen w-full font-sans'>
         <div className='m-auto max-w-4xl'>
-          <Header />
           {children}
         </div>
       </body>
