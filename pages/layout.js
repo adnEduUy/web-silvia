@@ -1,5 +1,3 @@
-import '../styles/globals.css'
-
 export const metadata = {
   title: 'Sacra by Silvia',
   description: 'Boutique de saumerio y boxes con energias.',
